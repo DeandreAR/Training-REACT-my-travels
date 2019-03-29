@@ -1,0 +1,43 @@
+
+  [
+  {
+    "destination":"Afrique",
+    "country":"Madagascar",
+    "photo":"https://image.noelshack.com/fichiers/2019/13/3/1553702804-decouverte-sud-ouest-madagascar.jpg",
+    "distance":"15 000 km"
+  },
+
+  {
+    "destination":"Afrique",
+    "country":"La Réunion",
+    "photo":"https://image.noelshack.com/fichiers/2019/13/3/1553703439-guide-voyage-la-reunion.jpg",
+    "distance":"16 000 km"
+  },
+
+
+  {
+    "destination":"Amérique du Sud",
+    "country":"Chili",
+    "photo":"https://d1ljaggyrdca1l.cloudfront.net/wp-content/uploads/2017/05/Ahu-Tongariki-Easter-Island-Chile.jpg",
+    "distance":"45 000 km"
+  },
+
+  {
+    "destination":"Amérique du Sud",
+    "country":"Brésil",
+    "photo":"https://www.actu-environnement.com/images/illustrations/breves/32486_fb.jpg",
+    "distance":"85 000 km"
+  },
+
+  {
+    "destination":"Océanie",
+    "country":"Nouvelle-Zélande",
+    "photo":"https://destination-nouvellezelande.com/wp-content/uploads/2016/10/cape-reinga-1.jpg",
+    "distance":"105 000 km"
+  } 
+]
+
+
+
+
+

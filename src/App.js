@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import Travel from './components/Travel'
-
+import Travels from './components/Travels.json'
 import './App.css';
 
 class App extends Component {
@@ -20,10 +20,12 @@ class App extends Component {
           >
           </a>
         </header>
-        <Travel destination="Afrique" country="Madagascar" photo="https://image.noelshack.com/fichiers/2019/13/3/1553702804-decouverte-sud-ouest-madagascar.jpg" distance="15 598 km"/>
-        <Travel destination="Afrique" country="La Réunion" photo="https://image.noelshack.com/fichiers/2019/13/3/1553703439-guide-voyage-la-reunion.jpg" distance="25 500 km"/>
+        {Travels.map(travel =>(
+        <Travel {...travel}/>
+       ))}
         </div>
-        );
+    );
         }
-        }
+      }
+        
 export default App;
