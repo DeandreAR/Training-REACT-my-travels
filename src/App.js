@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import Travel from './components/Travel'
 import Travels from './components/Travels.json'
+import BannierGame from './components/BannierGame';
+
 import './App.css';
 
 class App extends Component {
